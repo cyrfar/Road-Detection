@@ -1,4 +1,4 @@
-# RoadDetection
+# Road Detection with Logistic Regression
 
 In this notebook, I attempt to identify road pixels in satellite imagery by training a Logistic Regression model. For some good research papers using more elaborate models see [Mnih and Hinton 2010](http://www.cs.toronto.edu/~fritz/absps/road_detection.pdf), [Wang et al 2016](http://www.mdpi.com/2220-9964/5/7/114/htm#B4-ijgi-05-00114), [Zhang et al 2017](https://arxiv.org/pdf/1711.10684.pdf).  
 
